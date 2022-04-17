@@ -5,18 +5,22 @@ body {
 
 p {
     font-family: helvetica;
-    font-weight: 200;
+    font-weight: 350;
 }
 
 h1 {
     text-align:center;
     color: rgb(10, 27, 10);
-    font-size:400%;
+    font-size:450%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 570;
+    margin-top: 20px;
     margin-bottom: 50px;
 }
 
 .nav-link {
     margin-right: 30px;
 }
+
+
+
